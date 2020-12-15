@@ -1,0 +1,80 @@
+*{
+
+	font-family: Times New Roman;
+}
+
+.loginregister{
+	padding: 5px;
+	margin-left : 80%;
+
+}
+
+#image img{
+	border: 2px solid red;
+	padding:2%;
+	margin: 3% 4% 5% 6%;
+	border-radius: 10%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	box-shadow: 3px 3px 3px black;
+}
+
+
+.main{
+	padding: 2%;
+	display: flex;
+	width: auto;
+}
+
+.founders{
+	border: 1px solid black;
+	width: 27%;
+	padding: 10px;
+	text-align: center;
+	margin-bottom: 20px;
+	background-color: #85C1E9;
+}
+
+.summary{
+	padding: 1%;
+	border: 1px;
+	width: 70%;
+	margin-bottom: 10px;
+	height: 55%;
+
+}
+
+
+
+table{
+	border-collapse: collapse;
+	background-color: #85C1E9;
+}
+
+
+table th{
+	background-color: black;
+	color: white;
+	padding: 10px;
+}
+
+
+table td{
+	padding: 10px;
+}
+
+
+.skill,.skill_db,.skill_frame{
+	display: flex;
+}
+
+
+.skill li,.skill_db li,.skill_frame li{
+	width: auto;
+	background-color: #85C1E9;
+	margin:2%;
+	padding: 8px;
+	border-radius: 10px;
+}
+
